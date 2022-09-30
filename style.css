@@ -1,0 +1,12 @@
+* {
+margin: 0;
+padding: 0;
+}
+
+nav {
+    width: 100w;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: ;
